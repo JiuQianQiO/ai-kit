@@ -1,1 +1,3 @@
-
+# --- ai-kit 可选片段：复制到项目根 .gitignore ---
+# 访谈简报可能含内网地址与联调路径；若需入库请改用 PROJECT_BRIEF.redacted.md
+# PROJECT_BRIEF.md
