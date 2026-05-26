@@ -1,7 +1,8 @@
 # ai-kit
 ai-agents cursor claude-code developer-tools documentation spring-boot codegen
 
-**跨项目 AI 工程规范生成器** · Portable AI project governance kit
+**跨项目 AI 工程规范生成器** 
+**· Portable AI project governance kit**
 
 [![Version](VERSION)](CHANGELOG.md)
 
